@@ -52,7 +52,7 @@ e a Senha: admin
 
 ![cliente](https://github.com/casagrande04/projeto-site-final/assets/104094435/1f663ee4-35f6-46af-ae93-2e5b8f1fc5da)
 
-• Na tela "Ordem de Serviço" será gerado a tabela com os dados requisitados, com a opção de impressão.
+• Na tela "Ordem de Serviço" será gerado a tabela com os dados requisitados, com a opção de impressão em PDF.
 
 ![ordem de serviço](https://github.com/casagrande04/projeto-site-final/assets/104094435/ac81eb76-0dae-43c5-aa6d-b4dead8d8036)
 
