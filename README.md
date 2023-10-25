@@ -44,4 +44,8 @@ e a Senha: admin
 
 ![principal](https://github.com/casagrande04/projeto-site-final/assets/104094435/6d173baf-36ae-4a0a-a033-52b07ab84fce)
 
+• Na tela "Usuários" será feito o cadastro de login e senha de usuário com suas permissões, se ele é admin ou user.
+
+![usuario](https://github.com/casagrande04/projeto-site-final/assets/104094435/07ed1d6b-c99c-47cd-b741-35b9cb6b07ce)
+
 
