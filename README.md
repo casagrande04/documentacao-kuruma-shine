@@ -38,5 +38,6 @@ usando o Login: admin
 
 e a Senha: admin
 
-![image](https://github.com/casagrande04/projeto-site-final/assets/104094435/579a55ad-330a-458b-9c91-53d0ddf48d5b)
+![image](https://github.com/casagrande04/projeto-site-final/assets/104094435/74792ce2-2671-4d66-9a30-3d83e30acab5)
+
 
