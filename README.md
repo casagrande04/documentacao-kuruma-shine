@@ -48,7 +48,7 @@ e a Senha: admin
 
 ![usuario](https://github.com/casagrande04/projeto-site-final/assets/104094435/07ed1d6b-c99c-47cd-b741-35b9cb6b07ce)
 
-• Na tela "Cliente" será efetuado o casdastro dos clientes, com opções de adição, edição e exclusão.
+• Na tela "Cliente" será efetuado o cadastro dos clientes, com opções de adição, edição e exclusão.
 
 ![cliente](https://github.com/casagrande04/projeto-site-final/assets/104094435/1f663ee4-35f6-46af-ae93-2e5b8f1fc5da)
 
