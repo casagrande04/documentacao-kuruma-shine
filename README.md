@@ -56,7 +56,9 @@ e a Senha: admin
 
 ![ordem de serviço](https://github.com/casagrande04/projeto-site-final/assets/104094435/ac81eb76-0dae-43c5-aa6d-b4dead8d8036)
 
+• Na tela "Relatórios" será gerado a tabela com os dados requisitados, com a opção de impressão em PDF.
 
+![relatorios](https://github.com/casagrande04/projeto-site-final/assets/104094435/1d5a25cc-8b8d-4e02-868f-40599459bd68)
 
 
 
