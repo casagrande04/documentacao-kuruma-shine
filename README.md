@@ -60,6 +60,13 @@ e a Senha: admin
 
 ![relatorios](https://github.com/casagrande04/projeto-site-final/assets/104094435/1d5a25cc-8b8d-4e02-868f-40599459bd68)
 
+• Na tela "Produtos" será feita o cadastro dos Produtos, contendo informações como fabricante, data de validade, estoque e etc.
+
+![produtos](https://github.com/casagrande04/projeto-site-final/assets/104094435/3a1670db-391d-406e-b470-a08c6363edd1)
+
+
+
+
 
 
 
