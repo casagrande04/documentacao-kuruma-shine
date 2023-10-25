@@ -33,5 +33,6 @@ A seguir estão descritas as instruções para uma cópia do projeto desenvolvid
 
 # Inicializando o Sistema:
 • Faça o Login abaixo:
+
 ![image](https://github.com/casagrande04/projeto-site-final/assets/104094435/579a55ad-330a-458b-9c91-53d0ddf48d5b)
 
