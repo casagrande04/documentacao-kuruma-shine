@@ -40,4 +40,8 @@ e a Senha: admin
 
 ![image](https://github.com/casagrande04/projeto-site-final/assets/104094435/74792ce2-2671-4d66-9a30-3d83e30acab5)
 
+• Em seguida será aberta a tela Principal com todas as opções:
+
+![principal](https://github.com/casagrande04/projeto-site-final/assets/104094435/6d173baf-36ae-4a0a-a033-52b07ab84fce)
+
 
