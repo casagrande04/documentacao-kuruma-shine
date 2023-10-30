@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/casagrande04/projeto-site-final)
+
+
 # ☕ Java MySQL - Projeto Kuruma Shine - Ordem de Serviço
 
 # Instalação e Demonstração do Projeto
